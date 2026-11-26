@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "save_version": "1.0.0",
+    "project_id": "EARTH-SOL-ANT-SAG-0001"
+  },
+  "player": {
+    "position": { "x": 0, "y": 0 },
+    "stats": { "integrity": 100, "humanity_index": 50 },
+    "inventory": []
+  },
+  "world_flags": {}
+}
